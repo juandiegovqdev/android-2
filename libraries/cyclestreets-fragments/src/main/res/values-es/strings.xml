@@ -2,7 +2,7 @@
 <resources>
 
   <string name="find_route">Encontrar ruta</string>
-  <string name="load_route">Load route</string>
+  <string name="load_route">Cargar ruta</string>
   <string name="addvia">Añadir punto en el camino</string>
   <string name="blog_cyclestreets_update">Actualización del blog CycleStreets</string>
   <string name="blog_update">Actualización del Blog</string>
@@ -56,7 +56,7 @@
   <string name="location_editor_hint">Coloca la marca en el mapa y después nombra la localización.</string>
   <string name="location_editor_name">Nombre de la localización :</string>
   <string name="routenumber_desc">Routes previously planned on CycleStreets can be loaded here, by entering the journey number shown on the webpage or itinerary</string>
-  <string name="routenumber_hint">CycleStreets journey number</string>
+  <string name="routenumber_hint">Número de viaje de CycleStreets</string>
 
   <string name="storedroutes_title_default">Ruta </string>
   <string name="storedroutes_detail_default">detalles</string>
